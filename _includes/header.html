@@ -1,0 +1,21 @@
+<div class=site-header>
+
+    <nav class="site-nav">
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+    </nav>
+
+    <div id="portrait">
+        <img src="/css/imgs/camzouz.png" style="width: 130px; height:230px; border-radius: 50%; display: block; margin: left; margin-left: 30px" alt="portrait" class="portrait"/>
+    </div>
+
+    <h1>
+     <span>
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+     </span>
+    </h1>
+
+</div>

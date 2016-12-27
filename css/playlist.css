@@ -1,0 +1,22 @@
+body
+{
+	background-color: #F9F8F9;
+	text-align: center;
+}
+
+
+header
+{
+	width: 100%;
+	height: 100px;
+	padding-top: 25px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	color: white;
+	background-image: url('imgs/fondroses.jpg')
+}
+
+#playlist
+{
+    margin-bottom: 30px;
+}

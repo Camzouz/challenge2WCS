@@ -1,0 +1,33 @@
+entete:
+  photo-cv: ../css/imgs/camzouz.png
+  CC: Camille Confolens
+
+contact:
+  adresse: Résidence la Bergerie<br/>  Batiment Aunis, appt 215<br/> 33560 Carbon-Blanc
+  gsm: 06 66 77 72 11
+  mail: camille.confolens@gmail.com
+  date: 11/08/1992
+  age: 24 ans
+
+parcours:
+- poste: <em>KLING, sept.2015-Juin 2016</em><br/>Conseillère de vente temps partiel, Bordeaux;
+- poste: <em>COMPTOIR DES COTONNIERS, année 2014/2015</em><br/>Cdd durant les vacances et périodes de fête, Bordeaux;
+- poste: <em>TARA JARMON, sept.2014-sept.2015</em><br/>Conseillère de vente, cdi, Champs Elysées, Paris;
+- poste: <em>MARCHÉS, Juin-Aout 2013</em><br/>Vendeuse de prêt à porter, Hérault;
+- poste: <em>Année scolaire 2012/2013</em><br/>Extras chez <em>Princesse TamTam</em>, Bordeaux;<br/>Hotesse d'Accueil, <em>Théma Services</em>, Paris;
+- poste: <em>SOMEWHERE, Sept.2011-Aout 2012</em><br/>Conseillère de vente, 25heures, Toulouse;
+- poste: <em>MARCHÉS, Juin-Aout 2009,2010,2011</em><br/>Vendeuse de prêt à porter, Hérault;
+
+formation:
+- annee: <em>2014/2015:</em> formation à la Broderie d'Art, Philomathique de Bordeaux;
+- annee: <em>2012/2013:</em> MANNA, LIMA, Bordeaux;
+- annee: <em>2011:</em> cours de couture et de dessin, Philomathique de Bordeaux;
+- annee: <em>2010:</em> obtenton du Baccalauréat Littéraire;
+
+competences:
+- langue: <em>Anglais:</em> parlé et compris;
+- langue: <em>Espagnol:</em> niveau scolaire +;
+
+interet:
+  liste: Mode, couture, peinture, broderie, littérature, patisserie, informatique.
+
